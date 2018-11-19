@@ -4616,6 +4616,14 @@ react-is@^16.6.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.6.3.tgz#d2d7462fcfcbe6ec0da56ad69047e47e56e7eac0"
   integrity sha512-u7FDWtthB4rWibG/+mFbVd5FvdI20yde86qKGx4lVUTWmPlSWQ4QxbBIrrs+HnXGbxOUlUzTAP/VDmvCwaP2yA==
 
+react-native-timer-cutdown@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-timer-cutdown/-/react-native-timer-cutdown-0.1.1.tgz#58aa76b137134cd1ec64a92741968df986f451e8"
+  integrity sha512-awt9IBiMJxdPKgfDECrPr74rYL48dygWLxGiARsK0pfrUlZ6TVBbZkTr8WuW7T0bgTi/q1p30Gu27uPOCYlIDg==
+  dependencies:
+    prop-types "^15.6.2"
+    sprintf-js "^1.1.1"
+
 react-native@0.57.5:
   version "0.57.5"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.57.5.tgz#f1dbcbf1f889845fba954f3e0d47e61cf89d41d9"
@@ -5290,6 +5298,11 @@ split-string@^3.0.1, split-string@^3.0.2:
   integrity sha512-NzNVhJDYpwceVVii8/Hu6DKfD2G+NrQHlS/V/qgv763EYudVwEcMQNxd2lh+0VrUByXN/oJkl5grOhYWvQUYiw==
   dependencies:
     extend-shallow "^3.0.0"
+
+sprintf-js@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.1.1.tgz#36be78320afe5801f6cea3ee78b6e5aab940ea0c"
+  integrity sha1-Nr54Mgr+WAH2zqPueLblqrlA6gw=
 
 sprintf-js@~1.0.2:
   version "1.0.3"
